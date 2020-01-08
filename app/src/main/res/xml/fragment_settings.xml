@@ -1,0 +1,10 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="Random">
+        <CheckBoxPreference
+            android:title="Check this box to rule the world"
+            android:summaryOn="Ruling the world!"
+            android:summaryOff="Not ruling the world yet."
+            android:defaultValue="false"
+            android:key="rule_world"/>
+    </PreferenceCategory>
+</PreferenceScreen>

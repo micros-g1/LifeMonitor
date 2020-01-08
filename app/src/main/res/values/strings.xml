@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Life Monitor</string>
+    <!-- Action Bar Strings - Main Activity -->
+    <string name="action_info">Information</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_devices">Devices</string>
+    <!-- Devices Activity -->
+    <string name="message_no_paired_devices">No Paired Devices</string>
+    <string name="message_bluetooth_disabled">Bluetooth Disabled</string>
+    <string name="message_bluetooth_not_available">Bluetooth not available</string>
+    <!-- Mock Device - Devices Activity -->
+    <string name="mock_device_name">Bluetooth Device</string>
+    <string name="mock_device_address">00:11:22:33:FF:EE</string>
+    <!-- Action Bar Strings - Devices Activity -->
+    <string name="action_bluetooth_settings">Bluetooth Settings</string>
+    <!-- Generic -->
+    <string name="close">Close</string>
+    <!-- info -->
+    <string name="info_title">Lorem Ipsum</string>
+    <string name="info_text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit....</string>
+    <!-- Others -->
+    <string name="team_name">The Llama Team &#x1F999;</string>
 </resources>
